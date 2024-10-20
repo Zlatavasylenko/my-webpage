@@ -49,3 +49,22 @@ p {
     }
 }
 
+/* Стилі для галочки */
+.checkmark-container {
+    margin-bottom: 20px;
+}
+
+.checkmark {
+    width: 80px;
+    height: 80px;
+}
+
+.checkmark circle {
+    fill: none;
+    stroke-width: 3;
+}
+
+.checkmark path {
+    fill: none;
+    stroke-width: 3;
+}
